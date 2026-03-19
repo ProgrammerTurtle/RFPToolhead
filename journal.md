@@ -1,7 +1,7 @@
 # This is the journal of the (rather fast) design process, and eventual build process (less fast) of my custom toolhead, RFPToolhead.
 
 
-## Journal Entry 1 3/19/2026
+## Journal Entry 1 3/18/2026
 Time Spent: 5 Hours
 
 Let's get things started. I am speedrunning this for the end of rework, so I better make it count. 
@@ -42,3 +42,12 @@ The block weighs 13 grams. That's it. It's WILD. Comparable supervolcano block i
 <img width="380" height="776" alt="image" src="https://github.com/user-attachments/assets/bede6123-b5a7-405e-bd5a-1482873e088b" />
 
 Sneak peak at what is coming! I am actually really excited for this project. 
+
+Journal Entry 2 3/19/2026
+Time Spent: 6 hours
+
+Yes, that's right. 6 hours. My excitement I mentioned earlier? That was a little bit of a mistake. 
+
+<img width="634" height="1123" alt="image" src="https://github.com/user-attachments/assets/7426575e-cbaf-40ee-955b-c89e913cb3f9" />
+
+Duct Design. Ouch. 
