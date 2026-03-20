@@ -101,3 +101,21 @@ There is a 10mm hole so I can fit a nozzle wrench around the nozzle. This makes 
 Next is the extruder mount and heatbreak interface. This is effectively what makes the toolhead the hotend heatsink, allowing for heatbreak cooling both via surface radiation of heat and cpap air. 
 
 I did this pretty simply by making a sketch at the base of the extruder that intersected the ducts, allowing me to bridge the space between the two. 
+
+<img width="1317" height="544" alt="image" src="https://github.com/user-attachments/assets/98558d57-b597-4649-ae56-51162bbe665e" />
+
+And then it gets fillets and chamfers to be pretty ! 
+
+<img width="1015" height="608" alt="image" src="https://github.com/user-attachments/assets/a639c80e-cca6-4fad-aeba-24f56e3c3700" />
+
+Last but certainly not least I did the hotblock bracing. 
+
+<img width="940" height="450" alt="image" src="https://github.com/user-attachments/assets/b4b8b785-3c3a-4b0e-a0cc-886a676527e1" />
+
+These are pretty simple "struts" that bolt to the block with M2 screws. You can see that the section that actually contacts the block is cut away to minimize contact, allowing for thermal isolation (hopefully). 
+
+<img width="656" height="621" alt="image" src="https://github.com/user-attachments/assets/e780c681-1e8e-4458-aad2-3d7ac9577949" />
+
+And that is actually it for this entry ! I was up until about 6:30 AM doing this stuff. Duct design is super tedious but honestly I found it really calming past about 3am. It was really nice actually. 
+
+Next is probe mounting and belt clamps, then this bad boy is done ! I am excited. 
