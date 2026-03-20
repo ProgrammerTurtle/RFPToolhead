@@ -82,3 +82,22 @@ I stacked them up from bottom to top, like the progression of those photos, main
 You can see some of that process here as the shape changes over time, with the changes getting less and less drastic with each revision. Eventually I was making millimeter adjustments. 
 
 You may notice that the duct randomly got thin during that photo progression ! That was at about hour 6 as I mentioned earlier, where I realized my mistake with the cross section and had to fix it.
+
+<img width="830" height="938" alt="image" src="https://github.com/user-attachments/assets/aad665c4-0398-4a72-9d2c-a1fa1c42b806" />
+
+This is unfortunately what that process looked like, and it managed to take an hour ish. I had to go through each cross section sketch and cut it in half. For the sketches that were not parallel to the ground plane I had to construct a new plane to sketch off of because fusion is silly. I also made some adjustments to overal shape here yet again as the thinner duct let me pull the sides in even closer to the hotend/extruder, making the toolhead less wide. 
+
+<img width="667" height="962" alt="image" src="https://github.com/user-attachments/assets/0752930b-8527-446c-9cb6-297d96ab09a9" />
+
+A quick mirror and we have the ducts ! From here I started working on the actual toolhead structure. 
+
+<img width="1121" height="893" alt="image" src="https://github.com/user-attachments/assets/fa40edbc-a8d1-4084-b27d-e9364d1c0310" />
+
+First I pretty simply joined the outlets together. This allows for easier hotend bracing, convection shielding for the hotend, and greater structural rigidity. 
+There is a 10mm hole so I can fit a nozzle wrench around the nozzle. This makes toolhead assembly possible and nozzle changes way less inconvenient. I am looking into a thin bent sheet metal piece (or rather two) that I could slot in to cover the hole. 
+
+<img width="696" height="1115" alt="image" src="https://github.com/user-attachments/assets/895d6ff5-21e8-436f-88bd-e39fe6a45f83" />
+
+Next is the extruder mount and heatbreak interface. This is effectively what makes the toolhead the hotend heatsink, allowing for heatbreak cooling both via surface radiation of heat and cpap air. 
+
+I did this pretty simply by making a sketch at the base of the extruder that intersected the ducts, allowing me to bridge the space between the two. 
