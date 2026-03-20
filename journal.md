@@ -44,10 +44,41 @@ The block weighs 13 grams. That's it. It's WILD. Comparable supervolcano block i
 Sneak peak at what is coming! I am actually really excited for this project. 
 
 Journal Entry 2 3/19/2026
-Time Spent: 6 hours
+Time Spent: 8 hours
 
-Yes, that's right. 6 hours. My excitement I mentioned earlier? That was a little bit of a mistake. 
+<img width="762" height="973" alt="image" src="https://github.com/user-attachments/assets/cba14a1a-c822-4574-b34b-2bfcdf16a66f" />
 
-<img width="634" height="1123" alt="image" src="https://github.com/user-attachments/assets/7426575e-cbaf-40ee-955b-c89e913cb3f9" />
+Yes, that's right. 8 hours. My excitement I mentioned earlier? That was a little bit of a mistake. 
+Duct design hurts a little sometimes.
 
-Duct Design. Ouch. 
+That photo up above is a pretty big leap from where we left off ! Let's take a few steps back. 
+
+<img width="736" height="1025" alt="image" src="https://github.com/user-attachments/assets/ab4f9a13-ab24-4193-9e6b-f1b7b5d409dd" />
+
+I started off with the outlet of the ducts. This was some simple sketching to determine sizing and angle from the ground plane, and then an extrusion to represent the path I need the air to be taking at the end of the duct.
+The outlet sizing is relatively simple. Take your inlet cross sectional area and maintain that area throughout the entirety of the duct (or you can shrink to like 80% or smth but I like 1:1). In this case, with a 19mm ID cpap tube I have aout 200mm^2 of cross sectional area. So, I sized my outlet to 20mm x 10mm, to get 200mm^2. 
+Wait, what?
+But aren't there two outlets?
+Yeah. I messed this up and didn't realize until after about 6 hours of duct design. I will cover how I fixed it when we get to that point, but just know that it should be 100mm^2 per side (I did about 5mm x 20mm). 
+
+Anywho, from there I copied the outlet cross section a few times and used them to structure my duct. By placing cross sections at points I want to control, I can then loft between them and have my duct. Some people will just do one cross section sketch and then sweep along a 3D-sketched line path. I don't like this approach as it is very difficult for me to visualize my duct in that manner. 
+
+<img width="699" height="366" alt="image" src="https://github.com/user-attachments/assets/38262587-e52d-461b-8024-4dfe86b4d780" />
+
+<img width="497" height="996" alt="image" src="https://github.com/user-attachments/assets/8e51dc2c-8dc6-4ea6-9acc-51717c56d1dd" />
+
+<img width="575" height="877" alt="image" src="https://github.com/user-attachments/assets/9f35e257-e937-40c0-8053-f509dba10783" />
+
+I stacked them up from bottom to top, like the progression of those photos, maintaining my cross sectional area the whole way up. Important note: I did not get this right the first time. Or the fifth time. Or the 20th time. I basically just had to keep making small adjustments and redoing the lofts to see how my duct shape changed. 
+
+<img width="558" height="896" alt="image" src="https://github.com/user-attachments/assets/ebb0ecfd-759d-4744-bb3c-afa057ab233f" />
+
+<img width="517" height="1078" alt="image" src="https://github.com/user-attachments/assets/83a7e7de-de60-459e-8c59-68e1331d1719" />
+
+<img width="754" height="1012" alt="image" src="https://github.com/user-attachments/assets/05648c9d-6fbb-42a1-ac18-8c2df65cdcd0" />
+
+<img width="654" height="1051" alt="image" src="https://github.com/user-attachments/assets/3aef44f8-f438-48c5-9c43-bedc19a1de2c" />
+
+You can see some of that process here as the shape changes over time, with the changes getting less and less drastic with each revision. Eventually I was making millimeter adjustments. 
+
+You may notice that the duct randomly got thin during that photo progression ! That was at about hour 6 as I mentioned earlier, where I realized my mistake with the cross section and had to fix it.
