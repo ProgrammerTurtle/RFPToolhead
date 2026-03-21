@@ -9,3 +9,5 @@
 - A BTT Eddy Duo scanning Z probe
 
 This toolhead was speed-designed in only two days for HackClub Rework. 
+
+BOM can be found here: https://docs.google.com/spreadsheets/d/1ppTgF0oRLdrvzKxr1jAm5b8qH3id3JrK4ya5kVFG87E/edit?usp=sharing or attached as a .CSV
