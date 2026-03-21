@@ -122,9 +122,9 @@ And that is actually it for this entry ! I was up until about 6:30 AM doing this
 Next is probe mounting and belt clamps, then this bad boy is done ! I am excited. 
 
 ## Journal Entry 3
-Time Spent: 5 hours 
+Time Spent: 5.5 hours 
 
-This is the last CAD journal entry ! The next one will be all the logistics stuff for submitting. 
+This is the last journal entry ! 
 Basically, I need to mount a BTT Eddy Duo, and belt attachment points. 
 
 <img width="1254" height="776" alt="image" src="https://github.com/user-attachments/assets/bf8e1e2d-6987-4fc1-b10a-1d1a18a8adde" />
@@ -176,4 +176,6 @@ Anywho, I also did some renders ! Because... the toolhead is done !
 
 <img width="1151" height="2087" alt="rfptoolhead main" src="https://github.com/user-attachments/assets/081512ba-942c-46a8-8849-9d11049a5225" />
 
-All that is left is logistics and submitting. 
+All that is left is logistics and submitting, which is pretty quick and easy. I made a bom, uploaded renders, added a license, wrote some basic descriptions, and we are good to go! 
+
+<img width="1104" height="515" alt="image" src="https://github.com/user-attachments/assets/cb888877-5fd7-4ec4-b1a9-9fb903be63ad" />
