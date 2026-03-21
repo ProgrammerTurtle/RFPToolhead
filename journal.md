@@ -1,5 +1,6 @@
 # This is the journal of the (rather fast) design process, and eventual build process (less fast) of my custom toolhead, RFPToolhead.
 
+## Total Time Spent: 18 Hours
 
 ## Journal Entry 1 3/18/2026
 Time Spent: 5 Hours
@@ -43,7 +44,7 @@ The block weighs 13 grams. That's it. It's WILD. Comparable supervolcano block i
 
 Sneak peak at what is coming! I am actually really excited for this project. 
 
-Journal Entry 2 3/19/2026
+## Journal Entry 2 3/19/2026
 Time Spent: 8 hours
 
 <img width="762" height="973" alt="image" src="https://github.com/user-attachments/assets/cba14a1a-c822-4574-b34b-2bfcdf16a66f" />
@@ -119,3 +120,60 @@ These are pretty simple "struts" that bolt to the block with M2 screws. You can 
 And that is actually it for this entry ! I was up until about 6:30 AM doing this stuff. Duct design is super tedious but honestly I found it really calming past about 3am. It was really nice actually. 
 
 Next is probe mounting and belt clamps, then this bad boy is done ! I am excited. 
+
+## Journal Entry 3
+Time Spent: 5 hours 
+
+This is the last CAD journal entry ! The next one will be all the logistics stuff for submitting. 
+Basically, I need to mount a BTT Eddy Duo, and belt attachment points. 
+
+<img width="1254" height="776" alt="image" src="https://github.com/user-attachments/assets/bf8e1e2d-6987-4fc1-b10a-1d1a18a8adde" />
+
+I added a flat section to the rear for the probe to mount to. This took 2 hours as I had to do a lot of digging to find the required info for where the probe should be mounted. I also had a lot of issues with filleting things because fusion is fusion.
+
+<img width="874" height="736" alt="image" src="https://github.com/user-attachments/assets/cb43c172-c6c9-47a2-a5f2-b3430d580183" />
+
+It was a pretty simple sketch though, just projected the probe and the ducts then sketched a flat section to bridge the ducts. 
+
+<img width="996" height="505" alt="image" src="https://github.com/user-attachments/assets/2a77988f-aa41-49f4-88e5-fef0e29dc70e" />
+
+Then comes belt mounting ! I figured out the mounting location by copying it from my old toolhead, which was a spinoff of kevender/lh stinger toolhead. 
+
+<img width="1336" height="1171" alt="image" src="https://github.com/user-attachments/assets/e63aa493-229a-4189-bcbe-8707fd4811ab" />
+
+You can kinda see the similarities in belt mounting. The belts will be clamped with two m3 screws by a little lasercut steel piece from JLC. They will cost like 2 dollars and I will just be paying for them myself because getting a quote from JLC sheet metal is really annoying. 
+
+I had a LOT of issues with this. I had to spend 2 hours messing with the model to get the geometry to stop crying. 
+
+<img width="1164" height="1058" alt="image" src="https://github.com/user-attachments/assets/27254a7a-9df5-4636-b514-67a7601089f1" />
+
+Basically this interior was all messed up and it wouldn't let me fix it. I ended up having to cut the model up to fix it. 
+
+<img width="784" height="1074" alt="image" src="https://github.com/user-attachments/assets/8e253960-8a39-4b48-88cd-b6d606e0f3b2" />
+
+You can see that here. Anywho, it got done after a lot of pain.
+Oh! I forgot. 
+
+<img width="784" height="1074" alt="image" src="https://github.com/user-attachments/assets/e6afe523-e81f-4496-8b25-18d944c4c97b" />
+
+The remaining hour was spent on this little perch thing for the extruder motor. This is to hopefully increase rigidity on the top of the duct and potentially help cool the extruder motor a little since they get quite hot at high current. 
+
+<img width="951" height="829" alt="image" src="https://github.com/user-attachments/assets/f10f2d95-39b7-4bbd-8699-640e96d2925c" />
+
+I think it turned out rather nice but it did take quite a lot of effort to get the geometry to match what I wanted. 
+
+<img width="862" height="705" alt="image" src="https://github.com/user-attachments/assets/ae1333e8-5684-4081-87eb-7c433561a524" />
+
+You can see how it lines up with the ducts to not have anything sticking out any side but the front, and evem that bit is minimized. That was really annoying. 
+
+<img width="1095" height="446" alt="image" src="https://github.com/user-attachments/assets/0664a515-8a98-4f8b-9bf6-aa2ee6defdc9" />
+
+Anywho, I also did some renders ! Because... the toolhead is done ! 
+
+<img width="2000" height="2000" alt="rfptoolhead front" src="https://github.com/user-attachments/assets/a826eb34-a9be-4a19-96ad-de384e2b67ac" />
+
+<img width="2000" height="2000" alt="rfptoolhead side" src="https://github.com/user-attachments/assets/473669cc-0f2d-427a-8826-6ef70c2e502a" />
+
+<img width="1151" height="2087" alt="rfptoolhead main" src="https://github.com/user-attachments/assets/081512ba-942c-46a8-8849-9d11049a5225" />
+
+All that is left is logistics and submitting. 
