@@ -1,0 +1,14 @@
+Item,Price,Quantity,Source,Useage
+SLM Monobody,$49.99,1,CraftCloud,"Toolhead structure, part cooling duct"
+CNC Heatblock,$19.63,1,JLCCNC,Hot side of the hotend
+V6 Heatbreak,$4.95,1,https://www.aliexpress.us/item/3256803198277956.html?,Connect hot side and cold side of hotend together
+V6 Nozzle,N/A,1,Self Purchasing/Already Owned,Control hotend extrusion resolution
+Supervolcano Adapter,N/A,1,Self Purchasing/Already Owned,Melt Zone
+Supervolcano Heater,N/A,1,Self Purchasing/Already Owned,Heating of the Hotblock
+Orbiter 1.5 Extruder ,N/A,1,Already Owned,Direct Drive Extruder
+BTT Eddy Duo,N/A,1,Self Purchasing,Scanning Z Probe for bed
+Belt Clamps,N/A,2,Self Purchasing,Belt attachment
+M3 Screws,N/A ,12,Already Owned,Assembly
+M2 Screws,N/A,2,Self Purchasing/Already Owned,Hotend Bracing
+,,,,
+Total,$74.57,,,
